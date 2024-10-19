@@ -6,7 +6,8 @@ font-family: 'El Messiri', sans-serif;
 }
 #banner{
  height: 650px;
-  background:linear-gradient(rgba(0,0,0,0.1), #f1b139) , url(images/banner.jpg);
+  background:linear-gradient(rgba(0,0,0,0.1), #f1b139) , url("https://github.com/
+ichra92005/fennecweb/blob/main/imges/banner.jpg);
   background-size: cover;
   background-position: center;
 }
